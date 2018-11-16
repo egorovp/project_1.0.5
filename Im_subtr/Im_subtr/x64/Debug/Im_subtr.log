@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\wayy\documents\visual studio 2017\projects\im_subtr\im_subtr\main.cpp(208): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+  c:\users\wayy\documents\visual studio 2017\projects\im_subtr\im_subtr\main.cpp(208): note: рекомендуется использовать "%zd" в строке форматирования
+  Descriptor.cpp
+c:\users\wayy\documents\visual studio 2017\projects\im_subtr\im_subtr\descriptor.cpp(218): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+c:\users\wayy\documents\visual studio 2017\projects\im_subtr\im_subtr\descriptor.cpp(435): warning C4715: recognition: значение возвращается не при всех путях выполнения
+  Im_subtr.vcxproj -> C:\Users\wayy\documents\visual studio 2017\Projects\Im_subtr\x64\Debug\Im_subtr.exe

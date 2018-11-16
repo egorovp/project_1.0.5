@@ -1,0 +1,4 @@
+﻿  Blob.cpp
+c:\users\wayy\documents\visual studio 2017\projects\im_subtr\im_subtr\Blob.h(6): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
+  main.cpp
+main.cpp(4): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
